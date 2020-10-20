@@ -1,0 +1,66 @@
+.img-logo{
+    width: 500px;
+    height: 220px;
+    position: absolute;
+    top: 30px;
+    left: 350px;
+}
+
+.fscore{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:350px;
+    left:450px;
+    font-size:40px;
+    font-family: "Comic Sans MS";
+}
+
+.buttona {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 50px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    box-shadow: #00ff00 0px 0px 80px 0px;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position: absolute;
+    top: 450px;
+    left:900px
+}
+.buttona:hover,
+.buttona:active,
+.buttona:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.buttonb {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 50px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    box-shadow: #00ff00 0px 0px 80px 0px;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position: absolute;
+    top: 450px;
+    left:150px
+}
+.buttonb:hover,
+.buttonb:active,
+.buttonb:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+

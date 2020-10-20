@@ -1,0 +1,134 @@
+.scorecanvas{
+    background-color: black;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    position: relative;
+    margin-left:400px;
+    margin-top: 40px;
+    width: 500px;
+    height: 500px;
+}
+
+
+.button{
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 50px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    box-shadow: #00ff00 0px 0px 80px 0px;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position: absolute;
+    top: 450px;
+    left:50px;
+}
+
+.texto{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:70px;
+    left:430px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+
+.texto1{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:140px;
+    left:430px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+.texto2{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:170px;
+    left:430px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+.texto3{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:200px;
+    left:430px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+.texto4{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:230px;
+    left:430px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+.texto5{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:260px;
+    left:430px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+.texto6{
+     color:#00ff00;
+     text-transform: uppercase;
+     position: absolute;
+     top:290px;
+     left:430px;
+     font-size: large;
+     font-family: "Comic Sans MS";
+ }
+.texto7{
+      color:#00ff00;
+      text-transform: uppercase;
+      position: absolute;
+      top:320px;
+      left:430px;
+      font-size: large;
+      font-family: "Comic Sans MS";
+}
+.texto8{
+       color:#00ff00;
+       text-transform: uppercase;
+       position: absolute;
+       top:350px;
+       left:430px;
+       font-size: large;
+       font-family: "Comic Sans MS";
+}
+.texto9{
+        color:#00ff00;
+        text-transform: uppercase;
+        position: absolute;
+        top:380px;
+        left:430px;
+        font-size: large;
+        font-family: "Comic Sans MS";
+}
+.texto0{
+         color:#00ff00;
+         text-transform: uppercase;
+         position: absolute;
+         top:410px;
+         left:430px;
+         font-size: large;
+         font-family: "Comic Sans MS";
+     }
+
+
+
+

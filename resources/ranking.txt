@@ -1,0 +1,10 @@
+Boinas,1000
+Freitas,900
+Carina,800
+Canelas,700
+Ze,600
+Costa,500
+Chico,400
+Catarina,300
+Joao,200
+Sergii,100

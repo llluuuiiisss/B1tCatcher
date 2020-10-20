@@ -1,0 +1,123 @@
+.img-logo{
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.gamecanvas{
+    background-color: gray;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    position: absolute;
+    top: 55px;
+    left:10px;
+}
+
+
+.heart{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top:15px;
+    left:350px;
+}
+
+.heart1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top:15px;
+    left:390px;
+}
+
+.heart2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top:15px;
+    left:430px;
+}
+
+.underscore{
+    width: 0.9%;
+    height: auto;
+    position:absolute;
+    top:37px;
+    left:1086px;
+}
+
+.underscore1{
+    width: 0.9%;
+    height: auto;
+    position:absolute;
+    top:37px;
+    left:1106px;
+}
+
+.underscore2{
+    width: 0.9%;
+    height: auto;
+    position:absolute;
+    top:37px;
+    left:1124px;
+}
+
+.underscore3{
+    width: 0.9%;
+    height: auto;
+    position:absolute;
+    top:37px;
+    left:1144px;
+}
+
+
+
+.decimal{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:15px;
+    left:600px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+
+.binary{
+    color:#00ff00;
+    text-transform: uppercase;
+    position: absolute;
+    top:15px;
+    left:1000px;
+    font-size: large;
+    font-family: "Comic Sans MS";
+}
+
+.levelup{
+    height: 96px;
+    width: 502px;
+    position: absolute;
+    top:250px;
+    left:400px;
+}
+.gameover{
+    position: absolute;
+    top:150px;
+    left:400px;
+}
+.button {
+    display: block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 9px 40px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position:absolute;
+    top: 3px;
+    left:150px
+}

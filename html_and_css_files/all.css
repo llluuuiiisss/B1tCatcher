@@ -1,0 +1,8 @@
+.background{
+    background-image: url("../resources/background.jpg");
+    height: 580px;
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: absolute;
+}

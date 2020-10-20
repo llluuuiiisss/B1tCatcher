@@ -1,0 +1,63 @@
+.img-logo{
+    width: 500px;
+    height: 220px;
+    position: absolute;
+    top: 30px;
+    left: 350px;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 50px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    box-shadow: #00ff00 0px 0px 80px 0px;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position: absolute;
+    top: 450px;
+    left:900px
+}
+.button:hover,
+.button:active,
+.button:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button2 {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 50px;
+    border: 5px solid #00ff00;
+    border-radius: 9px;
+    background: #000000;
+    box-shadow: #00ff00 0px 0px 80px 0px;
+    text-shadow: #000000 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #00ff00;
+    text-decoration: none;
+    position: absolute;
+    top: 450px;
+    left:200px
+}
+.button2:hover,
+.button2:active,
+.button2:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.box
+{
+    color: lime;
+    font: normal normal normal 20px Arial;
+    position: absolute;
+    top: 325px;
+    left: 525px;
+}
